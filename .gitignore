@@ -1,0 +1,5 @@
+
+credentials.json
+index.yaml
+*.pyc
+lib/
